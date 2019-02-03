@@ -1,4 +1,4 @@
 # root_docs
 
 ## Verry nice user guide
-[https://root.cern.ch/root/htmldoc/guides/users-guide/] link
+[link](https://root.cern.ch/root/htmldoc/guides/users-guide/)
